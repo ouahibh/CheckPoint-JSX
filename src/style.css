@@ -1,0 +1,46 @@
+.contenairP {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80rem;
+  height: 5rem;
+  background-color: darkgoldenrod;
+}
+.contenairP h1 {
+  color: brown;
+}
+.imgPublic {
+  display: flex;
+  justify-content: center;
+  width: 80rem;
+  height: 30rem;
+  margin: 1rem 0 1rem 0;
+}
+.imgPublic img{
+  width: 640px;
+  height: 480px;
+}
+.imgSrc {
+  display: flex;
+  justify-content: center;
+  width: 80rem;
+  height: 30rem;
+  margin: 1rem 0 1rem 0;
+  
+}
+.styleVideo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80rem;
+  height: 30rem;
+  margin: 1rem 0 1rem 0;
+  
+}
